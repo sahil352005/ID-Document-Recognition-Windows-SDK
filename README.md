@@ -16,7 +16,7 @@ Try it out today!
 > - 8,000+ document templates covering IDs issued in 200+ countries and territories.
 > - Support of 100+ languages and special characters via sophisticated neural networks.
 
-## Table of Contents
+## Table of Contents 
 
 - [Installation Guide](#installation-guide)
 - [API Details](#api-details)
